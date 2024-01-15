@@ -9,8 +9,6 @@
 
 Front-End Developer passionate about turning lines of code into amazing experiences! Graduated in Information Security Technology, my heart beats strongly for JavaScript, TypeScript, Angular, and React. I wield the power of Git and GitHub with finesse, always collaborating harmoniously in a team. With over a year's journey in the world of Web Development, I master API, DOM manipulation, CSS, and HTML. My mission? To refactor codes with mastery, making them cleaner, simpler, and always organized, ready for straightforward maintenance.
 
-With a background in Graphic Design and Sound Engineering, I bring a distinctive blend of creative and technical skills to my projects. I also have multiple certifications from Meta, Google, University of Michigan, and Coderhouse, demonstrating my proficiency and passion for web development. I enjoy learning and exploring diverse technologies and languages, fostering continuous growth in my software engineering journey. I am always open to new opportunities and challenges that allow me to collaborate and create impactful ventures within the industry.
-
 <!--
 ## Projects
 
