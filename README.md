@@ -3,7 +3,7 @@
 - 🌍 Based in Brasília, Brazil
 - ✉️ Contact Me: [jorge.not@gmail.com](mailto:jorge.not@gmail.com)
 - 🤝 I'm open to collaborating on anything!
--  🖥️ Portfolio: [<Link>]([<Link>](https://jobs-jorge.github.io/My-Page/))
+-  🖥️ Portfolio: [Minha Página]([<Link>](https://jobs-jorge.github.io/My-Page/))
 
 ## About Me
 
